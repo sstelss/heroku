@@ -38,7 +38,7 @@ passport.use(
     {
       clientID: '465627924258520',
       clientSecret: '6fe608d458734e9752b6307ec8d1fc2d',
-      callbackURL: 'http://localhost:8080/auth/facebook/callback'
+      callbackURL: 'https://myfirstpokedex.herokuapp.com/auth/facebook/callback'
     },
     function (accessToken, refreshToken, profile, done) {
       User.findOne(
