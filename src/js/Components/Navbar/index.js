@@ -1,5 +1,5 @@
 import React from 'react'
-import './index.css'
+import './index.styl'
 
 import Filterm from '../mobxStore'
 import FiltTypes from '../mobxTypes'
