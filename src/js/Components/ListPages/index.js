@@ -1,5 +1,5 @@
 import React from 'react'
-import './index.styl'
+import './index.css'
 
 export default function ListPages (props) {
   const { amount, funcChange, currentPage, MaxIndex } = props

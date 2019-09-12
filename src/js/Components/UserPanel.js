@@ -1,7 +1,7 @@
 import React from 'react'
 import Psw from './passwordMobx'
 import { observer } from 'mobx-react-lite'
-import './UserPanel.styl'
+import './UserPanel.css'
 
 import { Redirect, Link } from 'react-router-dom'
 

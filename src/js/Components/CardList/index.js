@@ -1,6 +1,6 @@
 /* eslint-disable brace-style */
 import React from 'react'
-import './index.styl'
+import './index.css'
 import Card from '../Card'
 
 import Filterm from '../mobxStore'
